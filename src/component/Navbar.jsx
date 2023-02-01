@@ -8,7 +8,7 @@ function Navbar() {
        <div className=" flex justify-around mt-4">
         <div className="flex flex-col items-center	text-[#340438]">
         <p><FaRegCompass /></p>
-        <p>Explore</p>
+        <p className='font-bold'>Explore</p>
         </div>
         <div className="flex flex-col items-center">
         <p><FaRegHeart /></p>
