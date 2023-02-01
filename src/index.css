@@ -12,3 +12,9 @@
     z-index: 1000;    
   }
   
+.login{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 20%);
+}
