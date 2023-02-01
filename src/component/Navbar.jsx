@@ -4,7 +4,7 @@ import { FaRegHeart, FaRegCompass, FaRegCommentDots,FaUserAlt } from 'react-icon
 
 function Navbar() {
     return (
-     <div className='navbar shadow-md text-lg'>
+     <div className='navbar shadow-md'>
        <div className=" flex justify-around mt-4">
         <div className="flex flex-col items-center	">
         <p><FaRegCompass /></p>
