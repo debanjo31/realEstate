@@ -7,14 +7,27 @@
     left: 0;
     bottom: 0;
     right: 0;
-    height: 65px;
+    height: 55px;
     background-color: #ffffff;
-    z-index: 1000;    
+    z-index: 1000;
+        
   }
   
 .login{
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
-  transform: translate(-50%, 20%);
+  transform: translate(-50%, 5%);
+}
+
+  
+.sidelogin{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, 5%);
+}
+
+.full{
+  height: 100vh;
 }
